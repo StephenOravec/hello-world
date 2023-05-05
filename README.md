@@ -1,2 +1,2 @@
 # Practice
- A place to practice Git
+ A place to practice Python and Git
